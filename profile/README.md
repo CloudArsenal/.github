@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Cloud Arsenal</h2>
-<p align="center">Open source cloud operations consoles for AWS and Azure.<br/>Real-time scanning. Multi-account. Self-hostable.</p>
+<p align="center">Open source cloud operations tools for AWS and Azure.<br/>Consoles. Remote labs. Real-time scanning. Self-hostable.</p>
 
 <p align="center">
   <a href="https://cloud-arsenal.com">cloud-arsenal.com</a> &nbsp;·&nbsp;
@@ -16,8 +16,9 @@
 
 | | Repo | Status |
 |---|---|---|
-| 🟠 **AWS Console** | [CloudArsenal/aws-arsenal](https://github.com/CloudArsenal/aws-arsenal) | ✅ Live |
-| 🔵 **Azure Console** | Coming soon | 🔨 Building |
+| 🟠 **AWS CloudOps Console** | [CloudArsenal/aws-arsenal](https://github.com/CloudArsenal/aws-arsenal) | ✅ Live |
+| 🔵 **Azure CloudOps Console** | Coming soon | 🔨 Building |
+| 🖥️ **AWS WorkSpaces Applications** | [CloudArsenal/aws-workspaces-applications](https://github.com/CloudArsenal/aws-workspaces-applications) | ✅ Live |
 
 ---
 
