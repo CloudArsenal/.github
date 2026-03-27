@@ -17,6 +17,7 @@
 | | Repo | Status |
 |---|---|---|
 | 🟠 **AWS CloudOps Console** | [CloudArsenal/aws-arsenal](https://github.com/CloudArsenal/aws-arsenal) | ✅ Live |
+| 🔍 **AWS Account Scanner** | [CloudArsenal/aws-account-scanner](https://github.com/CloudArsenal/aws-account-scanner) | ✅ Live |
 | 🔵 **Azure CloudOps Console** | Coming soon | 🔨 Building |
 | 🖥️ **AWS WorkSpaces Applications** | [CloudArsenal/aws-workspaces-applications](https://github.com/CloudArsenal/aws-workspaces-applications) | ✅ Live |
 
